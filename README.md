@@ -28,9 +28,6 @@
 - **Frameworks**: React, Node.js, Spring Boot
 - **Tools**: Git, Docker, Kubernetes
 
-## 📣 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ashparsh/)
-- [Twitter](https://x.com/ashparsh_)
 
 ## Connect with Me  
 <p align="left">
