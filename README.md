@@ -11,8 +11,6 @@
   </a>
 </p>
 
-
-
 ## 🚀 About Me  
 
 🌟 **Passionate about building scalable applications** and exploring new technologies.  
