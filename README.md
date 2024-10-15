@@ -1,19 +1,27 @@
 # Hi, I'm Ashparsh Pandey 👋
 
-<a href="https://meshery.layer5.io/user/756c3044-ee4f-4ad6-be15-27a7967724e7?tab=badges">
-  <img src="https://badges.layer5.io/assets/badges/community/community.png" alt="Community Badge" width="250"/>
-</a>
+## 🏅 **Badges**  
 
-<a href="https://meshery.layer5.io/user/756c3044-ee4f-4ad6-be15-27a7967724e7?tab=badges">
-  <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor Badge" width="250"/>
-</a>
+<p align="left">
+  <a href="https://meshery.layer5.io/user/756c3044-ee4f-4ad6-be15-27a7967724e7?tab=badges" target="_blank">
+    <img src="https://badges.layer5.io/assets/badges/community/community.png" alt="Community Badge" width="200" style="border: 2px solid #ccc; margin-bottom: 10px; padding: 5px; border-radius: 5px;"/>
+  </a>
+  <a href="https://meshery.layer5.io/user/756c3044-ee4f-4ad6-be15-27a7967724e7?tab=badges" target="_blank">
+    <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor Badge" width="200" style="border: 2px solid #ccc; padding: 5px; border-radius: 5px;"/>
+  </a>
+</p>
 
-## 🚀 About Me
-- 🔭 I’m currently working on projects using Go and React, and diving into DevOps and microservices.
-- 🌱 I’m learning more about DevOps practices, microservices architecture, and expanding my knowledge in full-stack development.
-- 👯 I’m looking to collaborate on interesting and challenging projects that push the boundaries of technology.
-- 💬 Ask me about full-stack development, Docker, Kubernetes, or any other tech-related queries.
-- 📫 How to reach me: [ashparsh.connects@gmail.com](mailto:ashparsh.connects@gmail.com)
+
+
+## 🚀 About Me  
+
+🌟 **Passionate about building scalable applications** and exploring new technologies.  
+- 🔭 Currently working with **Go** and **React** while diving deeper into **DevOps** and **microservices**.  
+- 🌱 Continuously learning **DevOps practices**, **microservices architecture**, and enhancing my **full-stack development** skills.  
+- 👯 Open to collaborating on **innovative projects** that challenge the status quo and foster growth.  
+- 💬 Let’s connect! I’d love to chat about **full-stack development**, **Docker**, **Kubernetes**, or any tech topic you're curious about.  
+- 📫 **Reach me at:** [ashparsh.connects@gmail.com](mailto:ashparsh.connects@gmail.com)  
+
 
 ## 📈 GitHub Stats
 ![Ashprsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashparshp&show_icons=true&theme=radical)
