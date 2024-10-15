@@ -16,7 +16,7 @@
 - 📫 How to reach me: [ashparsh.connects@gmail.com](mailto:ashparsh.connects@gmail.com)
 
 ## 📈 GitHub Stats
-![Ashprsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashprsh&show_icons=true&theme=radical)
+![Ashprsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashprshp&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashparshp&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashparshp&layout=compact&theme=radical)
 
