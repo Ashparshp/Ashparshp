@@ -18,6 +18,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashparshp&show_icons=true&count_private=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashparshp&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 🏆 Contributions
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
