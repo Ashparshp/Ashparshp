@@ -11,15 +11,6 @@
   </a>
 </p>
 
-## 🚀 About Me  
-
-🌟 **Passionate about building scalable applications** and exploring new technologies.  
-- 🔭 Currently working with **Go** and **React** while diving deeper into **DevOps** and **microservices**.  
-- 🌱 Continuously learning **DevOps practices**, **microservices architecture**, and enhancing my **full-stack development** skills.  
-- 👯 Open to collaborating on **innovative projects** that challenge the status quo and foster growth.  
-- 💬 Let’s connect! I’d love to chat about **full-stack development**, **Docker**, **Kubernetes**, or any tech topic you're curious about.  
-- 📫 **Reach me at:** [ashparsh.connects@gmail.com](mailto:ashparsh.connects@gmail.com)  
-
 
 ## 📈 GitHub Stats
 ![Ashprsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashparshp&show_icons=true&theme=radical)
