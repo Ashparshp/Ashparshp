@@ -11,11 +11,6 @@
   </a>
 </p>
 
-
-## 📈 GitHub Stats
-![Ashprsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashparshp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashparshp&layout=compact&theme=radical)
-
 ## 🏆 Contributions
 ![Ashprsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashparshp&theme=tokyo-night)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ashparshp&theme=tokyonight&hide_border=true)
