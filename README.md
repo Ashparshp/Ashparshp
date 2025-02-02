@@ -1,5 +1,18 @@
 # Hi, I'm Ashparsh Pandey 👋
 
+## 🌐 Portfolio 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.ashparsh.me">
+          <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-FF4470?style=for-the-badge&labelColor=222222" alt="Portfolio Badge"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🏅 **Badges**  
 
 <p align="left">
