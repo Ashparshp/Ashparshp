@@ -1,4 +1,4 @@
-# Hi, I'm Ashparsh Pandey 👋
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashparshp)
 
 ## 🌐 Portfolio 
 <div align="center">
@@ -27,11 +27,7 @@
 ## 🏆 Contributions
 ![Ashprsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashparshp&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashparshp)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashparshp&theme=tokyo-night)
-
-
 
 
 ## Connect with Me  
